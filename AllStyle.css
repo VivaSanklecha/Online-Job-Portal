@@ -11,38 +11,7 @@
 *{
     font-family: 'Poppins';
 }
-/* .bgbody{
-    background-image:  url("img/bg1.jpg");
-}
-.tbladvbg{
-    background-image:  url("img/bg9.jpg");
-}
-.tblcmpbg{
-    background-image:  url("img/bg10.jpg");
-}
-.firstcol{
 
-    
-    background-image: url("img/bg3.jpg");
-
-    background-repeat: repeat;
-
-
-}
-.secondcol{
-
-    
-    background-image: url("img/bg4.jpg");
-    background-repeat:repeat;
-
-}
-.thirdcol{
-
-   
-    background-image: url("img/bg3.jpg");
-    background-repeat: repeat;
-
-}
 /*Main Menu Style*/
 #navigation {
  margin: 0;
